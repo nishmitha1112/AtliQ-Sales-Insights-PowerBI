@@ -30,3 +30,5 @@ Built an interactive Sales Analytics Dashboard using SQL, MySQL, Power BI, Power
 - DAX Measures
 - Data Visualization
 - Business Intelligence Reporting
+## Power BI File
+  https://sreenidhieduin-my.sharepoint.com/:u:/g/personal/23311a12l5_it_sreenidhi_edu_in/IQAbvmoWyDnySLxEWpR8cSucAXGRP2MKQ0D2B6KAFu9d5mo?e=epXO63
